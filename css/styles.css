@@ -87,20 +87,18 @@ font-style: normal;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
             background-color: #4d5ae5;
             cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #404bbf;
 }
 /* #endregion hero */
 
 /* #region section advantage */
 
-.h3-tit {
+.h-tit {
     font-weight: 500;
         font-size: 20px; 
         line-height: 1.2;
@@ -135,7 +133,7 @@ font-weight: 700;
     background-color: #FFFFFF;
 }
 
-.h3-tit {
+.h-tit {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -163,7 +161,7 @@ font-weight: 700;
         text-transform: capitalize;
         color: #2e2f42;
 }
-.h3-tit {
+.h-tit {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
